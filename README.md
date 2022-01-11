@@ -2,4 +2,6 @@
 
 This is a collaboration project.
 
-Feel free to post your gameart in the comments.
+Feel free to add your gameart at this directry.
+
+Endless-Coding-Platforms/Endless Coding Platforms/Assets/Objects/
